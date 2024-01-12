@@ -1,4 +1,4 @@
-# headtail
+# head&tail Game Flutter
 
 A new Flutter project.
 
