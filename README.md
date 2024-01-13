@@ -2,7 +2,9 @@
 
 A new Flutter project.
 
-![Phone Screenshot 1 (1)](https://github.com/Virang007/Head-Tails_Game/assets/104147123/84ba432d-cee4-454b-a01e-d83f889d4596)![Phone Screenshot 2](https://github.com/Virang007/Head-Tails_Game/assets/104147123/531c22e4-5041-4c74-ba26-92fdcce4425d)
+![Phone Screenshot 1](https://github.com/Virang007/Head-Tails_Game/assets/104147123/6bd484fb-5c31-40d2-9009-d673d70192fa)![Phone Screenshot 2](https://github.com/Virang007/Head-Tails_Game/assets/104147123/cd68f35f-c981-438d-a282-cde3a4bc8807)
+
+
 
 
 
