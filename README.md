@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+![Phone Screenshot 1 (1)](https://github.com/Virang007/Head-Tails_Game/assets/104147123/84ba432d-cee4-454b-a01e-d83f889d4596)![Phone Screenshot 2](https://github.com/Virang007/Head-Tails_Game/assets/104147123/531c22e4-5041-4c74-ba26-92fdcce4425d)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
